@@ -1,0 +1,8 @@
+
+* TODO [%]
+** TODO [0%] project config
++ [ ] emacs prolog babel block config
++ [ ] 
+
+** TODO [%] publish site
++ [ ] github pages
